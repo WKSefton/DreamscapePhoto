@@ -231,7 +231,7 @@ export default function Home() {
                                     kinda stopped
                                     caring about that. Our new strategy is to write a bunch of things that look really
                                     good in the
-                                    headlines, then clarify in the small print but hope people don't actually read it.
+                                    headlines, then clarify in the small print but hope people don&apos;t actually read it.
                                 </p>
                             </div>
                             <div className="aspect-w-3 aspect-h-2 bg-gray-100 rounded-lg overflow-hidden">
@@ -728,7 +728,7 @@ export default function Home() {
                                     type="submit"
                                     className="w-full inline-flex items-center justify-center px-6 py-3 border border-transparent rounded-md shadow-sm text-base font-medium text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
                                 >
-                                    Let's talk
+                                    Let&apos;s talk
                                 </button>
                             </div>
                         </form>
